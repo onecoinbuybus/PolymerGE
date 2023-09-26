@@ -26,7 +26,7 @@ PolymerGE is based on the paper "Population-based De Novo Molecule Generation, U
     python test.py
     ```
 
-    Performing test aboute ncoding/decoding of polymer smiles in PI1M database through grammatical evolution. 
+    Performing a test about encoding/decoding of polymer smiles in PI1M database through grammatical evolution. 
 
 ## Dependencies
 
