@@ -2,7 +2,7 @@
 
 ## Description
 
-PolymerGE is based on the paper "Population-based De Novo Molecule Generation, Using Grammatical Evolution"  ([Read Paper](https://doi.org/10.1246/cl.180665)). PolymerGE adapts and extends the original Zinc grammar to represent and generate polymers, enabling specialized molecule design using grammatical evolution for polymers. 
+Based on the paper "Population-based De Novo Molecule Generation, Using Grammatical Evolution"  ([Read Paper](https://doi.org/10.1246/cl.180665)). This version  adapts and extends the original Zinc grammar to represent and generate polymers, enabling specialized molecule design using grammatical evolution for polymers. 
 
 ## Usage
 
