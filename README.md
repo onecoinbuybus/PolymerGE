@@ -11,7 +11,7 @@ Based on the paper "Population-based De Novo Molecule Generation, Using Grammati
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/PolymerGE.git
+    git clone https://github.com/onecoinbuybus/PolymerGE.git
     ```
 
 2. **Navigate to the Directory**
